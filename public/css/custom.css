@@ -1,0 +1,22 @@
+.page-header{
+	position:relative;
+	font-family: Verdana;
+    font-size: 40px;
+	margin-left:30px;
+	
+}
+
+body
+{
+	background-color:white;
+}
+
+.position{
+	position:absolute;
+	bottom:20px;
+	right:20px;
+}
+
+
+
+
